@@ -20,3 +20,4 @@ We face with commit with venv file upload. That's why we remove this file and co
 - run fasapi app
 
 ## Output sample of this project
+![Screenshot of AI Health Assistant ChatBot](Screenshot_30.png)
